@@ -3,7 +3,7 @@
 setTimeout(function(){
         $(".e2").css("display", "inherit");
         $(".e2").typed({
-            strings: ["I am not afraid of storms,"],
+            strings: ["I am not afraid of storms, "],
             typeSpeed: 50, 
             startDelay:700,
             loop: false,
@@ -15,7 +15,7 @@ setTimeout(function(){
 setTimeout(function(){
         $("e3").css("display", "inherit");
         $(".e3").typed({
-            strings: ["for I am learning how to sail my ship.”,"],
+            strings: ["for I am learning how to sail my ship.” "],
             typeSpeed: 50, 
             startDelay:1900,
             loop: false, 
