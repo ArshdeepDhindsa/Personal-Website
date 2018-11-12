@@ -3,7 +3,7 @@
 setTimeout(function(){
         $(".e2").css("display", "inherit");
         $(".e2").typed({
-            strings: ["I am not afraid of storms, "],
+            strings: ["“I am not afraid of storms, "],
             typeSpeed: 50, 
             startDelay:700,
             loop: false,
