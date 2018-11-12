@@ -3,7 +3,7 @@
 setTimeout(function(){
         $(".e2").css("display", "inherit");
         $(".e2").typed({
-            strings: ["Software Developer by profession,"],
+            strings: ["I am not afraid of storms,"],
             typeSpeed: 50, 
             startDelay:700,
             loop: false,
@@ -15,7 +15,7 @@ setTimeout(function(){
 setTimeout(function(){
         $("e3").css("display", "inherit");
         $(".e3").typed({
-            strings: ["an enthusiast by heart,"],
+            strings: ["for I am learning how to sail my ship.”,"],
             typeSpeed: 50, 
             startDelay:1900,
             loop: false, 
@@ -27,7 +27,7 @@ setTimeout(function(){
 setTimeout(function(){
         $(".e4").css("display", "inherit");
         $(".e4").typed({
-            strings: ["always ready to take new Lessons."],
+            strings: [" -Louisa May Alcott."],
             typeSpeed: 50, 
             startDelay:2000,
             loop: false, 
