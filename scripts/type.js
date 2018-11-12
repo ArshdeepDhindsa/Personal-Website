@@ -15,7 +15,7 @@ setTimeout(function(){
 setTimeout(function(){
         $("e3").css("display", "inherit");
         $(".e3").typed({
-            strings: ["for I am learning how to sail my ship.” "],
+            strings: ["for I am learning how to sail my ship. "],
             typeSpeed: 50, 
             startDelay:1900,
             loop: false, 
